@@ -1,6 +1,8 @@
 # Network-Quantifications
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxxx)
+[![DOI]([https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxxx.svg](https://zenodo.org/badge/342492910.svg))]([https://doi.org/10.5281/zenodo.xxxxxxxx](https://doi.org/10.5281/zenodo.19763315))
+
+
 
 ## Network Quantification Code for Cortical Microconnectome Analysis
 

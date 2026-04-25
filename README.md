@@ -68,7 +68,7 @@ For the scientific method, results, and interpretation, please cite:
 
 The GitHub repository has been archived on Zenodo:
 
-**Shimono, M. (2026). _Network-Quantifications: Network quantification code for cortical microconnectome analysis_. Zenodo. [[https://doi.org/10.5281/zenodo.19763315](https://zenodo.org/badge/342492910.svg)](https://doi.org/10.5281/zenodo.19763315)
+**Shimono, M. (2026). _Network-Quantifications: Network quantification code for cortical microconnectome analysis_. Zenodo. [https://doi.org/10.5281/zenodo.xxxxxxxx**](https://doi.org/10.5281/zenodo.19763315)
 
 Please cite the peer-reviewed article for the scientific method, results, and interpretation, and cite the Zenodo DOI when referring specifically to this archived software release.
 
